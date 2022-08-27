@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Covid Symptoms Detector</string>
+
+    <string name="select_a_symptom">Select a Symptom</string>
+    <string name="upload_symptoms">Upload Symptoms</string>
+    <string name="measure_heart_rate">Measure Heart Rate</string>
+    <string name="capture_video">Capture Video</string>
+    <string name="select_symptoms">Select Symptoms</string>
+    <string name="upload">Upload</string>
+    <string name="measure_respiratory_rate">Measure Respiratory Rate</string>
+
+
+    <string-array name="user_symptoms_array">
+        <item>Cough</item>
+        <item>Headache</item>
+        <item>Sore throat</item>
+        <item>Fever</item>
+        <item>Diarrhea</item>
+        <item>Muscle Ache</item>
+        <item>Nausea</item>
+        <item>New loss of taste or smell</item>
+        <item>Trouble breathing</item>
+        <item>Congestion</item>
+
+    </string-array>
+</resources>
